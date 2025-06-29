@@ -20,7 +20,7 @@
                         Keep coding, keep learning!
                     </p>
                     <div class="flex justify-center md:justify-start space-x-4">
-                        <a href="https://github.com/yourusername" target="_blank" class="text-gray-300 hover:text-primary transition-colors duration-300">
+                        <a href="https://github.com/Ballon14" target="_blank" class="text-gray-300 hover:text-primary transition-colors duration-300">
                             <i class="fab fa-github text-xl"></i>
                         </a>
                         <a href="https://linkedin.com/in/yourusername" target="_blank" class="text-gray-300 hover:text-secondary transition-colors duration-300">
@@ -29,7 +29,7 @@
                         <a href="https://twitter.com/yourusername" target="_blank" class="text-gray-300 hover:text-accent transition-colors duration-300">
                             <i class="fab fa-twitter text-xl"></i>
                         </a>
-                        <a href="mailto:your.email@example.com" class="text-gray-300 hover:text-primary transition-colors duration-300">
+                        <a href="mailto:iqbaldev.site@gmail.com" class="text-gray-300 hover:text-primary transition-colors duration-300">
                             <i class="fas fa-envelope text-xl"></i>
                         </a>
                     </div>
@@ -54,7 +54,7 @@
                     <div class="space-y-3">
                         <div class="flex items-center justify-center md:justify-start">
                             <i class="fas fa-envelope text-primary mr-3"></i>
-                            <span class="text-gray-300">your.email@example.com</span>
+                            <span class="text-gray-300">iqbaldev.site@gmail.com</span>
                         </div>
                         <div class="flex items-center justify-center md:justify-start">
                             <i class="fas fa-map-marker-alt text-secondary mr-3"></i>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="text-center md:text-right">
                         <p class="text-gray-300 text-sm">
-                            © 2024 Portfolio. All rights reserved.
+                            © 2025 Portfolio. All rights reserved.
                         </p>
                     </div>
                 </div>
