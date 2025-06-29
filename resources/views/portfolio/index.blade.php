@@ -188,7 +188,7 @@
                                     </div>
                                     <div>
                                         <h4 class="font-semibold text-light">Email</h4>
-                                        <p class="text-gray-300">your.email@example.com</p>
+                                        <p class="text-gray-300">iqbaldev.site@gmail.com</p>
                                     </div>
                                 </div>
 
@@ -217,7 +217,7 @@
                             <div class="mt-8">
                                 <h4 class="font-semibold text-light mb-4">Follow Me</h4>
                                 <div class="flex space-x-4">
-                                    <a href="https://github.com/yourusername" target="_blank" class="w-12 h-12 bg-dark/80 border border-primary/20 hover:bg-primary hover:text-dark rounded-lg flex items-center justify-center transition-colors duration-300 shadow-md">
+                                    <a href="https://github.com/Ballon14" target="_blank" class="w-12 h-12 bg-dark/80 border border-primary/20 hover:bg-primary hover:text-dark rounded-lg flex items-center justify-center transition-colors duration-300 shadow-md">
                                         <i class="fab fa-github text-xl"></i>
                                     </a>
                                     <a href="https://linkedin.com/in/yourusername" target="_blank" class="w-12 h-12 bg-dark/80 border border-secondary/20 hover:bg-secondary hover:text-dark rounded-lg flex items-center justify-center transition-colors duration-300 shadow-md">
@@ -247,7 +247,7 @@
                                     </div>
                                     <div>
                                         <label class="block text-light font-semibold mb-2">Email</label>
-                                        <input type="email" class="w-full px-4 py-3 bg-dark/80 border border-secondary/20 rounded-lg text-light placeholder-gray-400 focus:outline-none focus:border-secondary transition-colors duration-300" placeholder="your@email.com">
+                                        <input type="email" class="w-full px-4 py-3 bg-dark/80 border border-secondary/20 rounded-lg text-light placeholder-gray-400 text-black focus:outline-none focus:border-secondary transition-colors duration-300" placeholder="Your email">
                                     </div>
                                 </div>
 
