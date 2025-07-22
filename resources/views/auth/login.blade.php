@@ -23,7 +23,4 @@
         </div>
         <button type="submit" class="auth-btn">Login</button>
     </form>
-    <div class="mt-4 text-center">
-        <a class="auth-link" href="{{ route('register') }}">Belum punya akun? Register</a>
-    </div>
 </x-guest-layout>
